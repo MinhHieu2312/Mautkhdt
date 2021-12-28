@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUAurMHjABr4vNbMAYQ9e+ELP3mBpXF05AkmMBxXIrDH9eyvn2WREQNn/1QyYi5Ff/PCbtvIwEfU0+Mbc1byaA==",
+  "success": true,
+  "projectFilePath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoC\\IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hieu Nguyen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Hieu Nguyen\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

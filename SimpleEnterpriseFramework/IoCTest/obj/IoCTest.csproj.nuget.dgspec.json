@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoCTest\\IoCTest.csproj": {}
+  },
+  "projects": {
+    "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Hieu Nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hieu Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.41, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.115.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoCTest\\IoCTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoCTest\\IoCTest.csproj",
+        "projectName": "IoCTest",
+        "projectPath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoCTest\\IoCTest.csproj",
+        "packagesPath": "C:\\Users\\Hieu Nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoCTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hieu Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\Core\\Core.csproj": {
+                "projectPath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\Core\\Core.csproj"
+              },
+              "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoC\\IoC.csproj": {
+                "projectPath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoC\\IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.21, 3.1.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoC\\IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoC\\IoC.csproj",
+        "projectName": "IoC",
+        "projectPath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoC\\IoC.csproj",
+        "packagesPath": "C:\\Users\\Hieu Nguyen\\.nuget\\packages\\",
+        "outputPath": "D:\\4. Tài Liệu Học\\2. Mẫu Thiết Kế HĐT\\simple_enterprise_framework\\SimpleEnterpriseFramework\\IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hieu Nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\bin\Debug\netstandard2.1\Core.deps.json
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\bin\Debug\netstandard2.1\Core.dll
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\bin\Debug\netstandard2.1\Core.pdb
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\obj\Debug\netstandard2.1\Core.csproj.AssemblyReference.cache
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\obj\Debug\netstandard2.1\Core.dll
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\Core\obj\Debug\netstandard2.1\Core.pdb

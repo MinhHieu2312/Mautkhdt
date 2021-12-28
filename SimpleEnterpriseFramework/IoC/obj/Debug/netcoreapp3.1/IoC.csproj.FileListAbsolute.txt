@@ -1,0 +1,10 @@
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\bin\Debug\netcoreapp3.1\IoC.deps.json
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\bin\Debug\netcoreapp3.1\IoC.dll
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\bin\Debug\netcoreapp3.1\IoC.pdb
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\obj\Debug\netcoreapp3.1\IoC.csproj.AssemblyReference.cache
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\obj\Debug\netcoreapp3.1\IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\obj\Debug\netcoreapp3.1\IoC.AssemblyInfoInputs.cache
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\obj\Debug\netcoreapp3.1\IoC.AssemblyInfo.cs
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\obj\Debug\netcoreapp3.1\IoC.csproj.CoreCompileInputs.cache
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\obj\Debug\netcoreapp3.1\IoC.dll
+D:\4. Tài Liệu Học\2. Mẫu Thiết Kế HĐT\simple_enterprise_framework\SimpleEnterpriseFramework\IoC\obj\Debug\netcoreapp3.1\IoC.pdb
